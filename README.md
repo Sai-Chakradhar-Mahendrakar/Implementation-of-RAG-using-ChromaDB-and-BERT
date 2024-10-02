@@ -12,7 +12,7 @@ This repository demonstrates the integration of [BERT](https://huggingface.co/be
 
 Below is a diagram representing the Retrieval-Augmented Generation (RAG) system, where relevant documents are retrieved from ChromaDB based on a user query, and a generative model is used to formulate responses.
 
-![RAG System](path_to_your_image.png)
+![RAG System](rag.png)
 
 ## Installation
 
